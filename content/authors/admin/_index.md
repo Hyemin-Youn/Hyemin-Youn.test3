@@ -3,11 +3,10 @@
 title: 윤혜민
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
+name_pronunciation: Hyemin-Youn
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Hyemin
+last_name: Youn
 
 # Status emoji
 status:
@@ -40,9 +39,9 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
+  - area: Computer Science and Engineering, Political Science
+    institution: Jeonbuk National University
+    date_start: 2021-03-02
     date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
@@ -108,10 +107,10 @@ skills:
         description: ''
         percent: 100
         icon: devicon/rstudio
-      - name: PyTorch
+      - name: C
         description: ''
         percent: 40
-        icon: devicon/pytorch
+        icon: devicon/C
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -130,11 +129,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Korean
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
+  - name: Chinese
     percent: 25
 
 # Awards.
@@ -169,4 +168,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently learning how to make webservice in Computer Science and Engineering at Jeonbuk National University. 
