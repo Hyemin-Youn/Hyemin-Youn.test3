@@ -31,8 +31,6 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Hyemin-Youn
-  - icon: brands/instagram
-    url: https://www.instagram.com/yunemin
 
 education:
   - area: Computer Science and Engineering, Political Science
