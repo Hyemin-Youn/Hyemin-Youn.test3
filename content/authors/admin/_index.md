@@ -85,4 +85,4 @@ languages:
     percent: 25
 
 
-I am currently learning how to make webservice in Computer Science and Engineering at Jeonbuk National University. 
+I am currently learning how to make web service in Computer Science and Engineering at Jeonbuk National University. 
